@@ -11,9 +11,10 @@ This portfolio showcases Salesforce projects inspired by real-world business cha
 
 ## Featured Projects
 
-          | Project                                                                         | Technologies |                                                                  
-| 🎓 Student Payment Automation                                                | Apex, Custom Metadata, Trigger Framework |
-| 💬 Customer Feedback Tracker                                                 | Apex, LWC, SOQL, Flow |
-| 📧 Custom Email Integration                                                  | REST API, HTTP Callout, Named Credentials |
-| 📍 Territory Assignment                                                      | Apex, Flow |
-| 📢 Campaign Status Automation                                                | Batch Apex |
+| Project | Technologies |
+|---------|--------------|
+| 🎓 Student Payment Automation | Apex, Custom Metadata, Trigger Framework |
+| 💬 Customer Feedback Tracker | Apex, LWC, SOQL, Flow |
+| 📧 Custom Email Integration | REST API, HTTP Callout, Named Credentials |
+| 📍 Territory Assignment | Apex, Flow |
+| 📢 Campaign Status Automation | Batch Apex |
