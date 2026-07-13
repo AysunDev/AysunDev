@@ -13,7 +13,6 @@ This portfolio contains personal Salesforce projects created to demonstrate my d
 
 | Project | Technologies |
 |---------|--------------|
-| 💬 Customer Feedback Tracker | Apex, LWC, SOQL, Flow |
 | 📧 Custom Email Integration | REST API, HTTP Callout, Named Credentials |
 | 📍 Territory Assignment | Apex, Trigger Handler Pattern, Custom Metadata Types, Maps, SOQL, Test Classes, Exception Handling, Business Rule Engine, Salesforce Architecture |
 
