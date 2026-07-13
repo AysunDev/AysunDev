@@ -15,5 +15,5 @@ This portfolio showcases Salesforce projects inspired by real-world business cha
 |---------|--------------|
 | 💬 Customer Feedback Tracker | Apex, LWC, SOQL, Flow |
 | 📧 Custom Email Integration | REST API, HTTP Callout, Named Credentials |
-| 📍 Territory Assignment | Apex, Custom Metadata Types, Maps, SOQL, Test Classes, Exception Handling, Business Rule Engine, Salesforce Architecture |
+| 📍 Territory Assignment | Apex, Trigger Handler Pattern, Custom Metadata Types, Maps, SOQL, Test Classes, Exception Handling, Business Rule Engine, Salesforce Architecture |
 | 📢 Campaign Status Automation | Batch Apex |
